@@ -1,0 +1,8 @@
+/* OOP TS
+    Static members
+    Index signatures
+    Inheritance
+    Polymorphism
+    Abstract classes
+    Interfaces
+ */

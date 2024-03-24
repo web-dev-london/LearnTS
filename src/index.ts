@@ -163,4 +163,4 @@ function processEvents (message: string):never {
 
 
 processEvents('dj');
-console.log('Hello World');
+// console.log('Hello World');
